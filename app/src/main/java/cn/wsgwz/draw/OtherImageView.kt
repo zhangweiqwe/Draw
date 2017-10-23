@@ -2,12 +2,9 @@ package cn.wsgwz.draw
 
 import android.content.Context
 import android.graphics.Canvas
-import android.graphics.Color
-import android.graphics.Paint
-import android.graphics.Path
-import android.support.v4.widget.ImageViewCompat
 import android.util.AttributeSet
 import android.widget.ImageView
+import cn.wsgwz.draw.util.MLog
 
 /**
  * Created by admin on 2017/10/17 0017.

@@ -12,10 +12,10 @@ import android.util.DisplayMetrics
 import android.view.MotionEvent
 import android.view.SurfaceHolder
 import android.view.SurfaceView
-import android.widget.Toast
 import java.util.*
 import android.graphics.RectF
-
+import cn.wsgwz.draw.util.DensityUtil
+import cn.wsgwz.draw.util.MLog
 
 
 @RequiresApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
